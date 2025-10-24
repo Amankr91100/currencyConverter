@@ -10,9 +10,13 @@ It allows users to convert values between different currencies in real-time usin
 🧩 Features
 
 ✅ Convert any amount between two selected currencies
+
 ✅ Fetches live exchange rates from an API
+
 ✅ Fully responsive UI (works on all devices)
+
 ✅ Clean, minimalist design using Tailwind CSS
+
 ✅ Built with a custom React Hook for API calls
 
 ⚙️ Tech Stack
@@ -28,10 +32,15 @@ Vite (for fast development)
 🧠 What I Learned
 
 While building this project, I explored:
+
 React hooks (useState, useEffect)
+
 Creating and reusing custom hooks (useCurrencyInfo)
+
 Handling API calls in React
+
 Structuring components for better readability
+
 Styling with Tailwind CSS
 
 
